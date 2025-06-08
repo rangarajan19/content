@@ -1,6 +1,5 @@
-Category,Text 1,Text 2,Text 3
-Recent,Signed Out/In,Empty Placeholder,You have not accessed any presentation recently.
-Created by me,Signed Out/In,Empty Placeholder,Create engaging presentations on the go!
-Shared with me,Signed Out/In,Empty Placeholder,View presentations shared with you.
-Offline,Signed Out/In,Empty Placeholder,You haven't stored any presentation locally.
-Trash,Signed Out/In,Empty Placeholder,Your trash is currently empty.
+Category,Text
+Created by me,Create engaging presentations on the go!
+Shared with me,View presentations shared with you.
+Offline,You haven't stored any presentation locally.
+Trash,Your trash is currently empty.
